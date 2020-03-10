@@ -1,0 +1,3 @@
+do hesla nepište heslo které chcete použít
+do patch vlošte cestu ke slošce
+do umisteni_slosky vloš kam jsi vložil tenhle soubor
